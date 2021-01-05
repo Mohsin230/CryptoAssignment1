@@ -9,7 +9,7 @@ has the code for the encryption/decrpytion and crpyto analysis
 Refer to A1_test.py
 to actually test A1_solution.py and see that the code runs properly
 
-note the plaintexts and ciphertexts are used for the encryption and decrption and decrption tests
+note the plaintexts and ciphertexts are used for the encryption and decrption tests
 
 note utilities.py file holds helper functions to support the making of the A1_solution.py
 
